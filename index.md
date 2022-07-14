@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## (./image/index.png)
 
 You can use the [editor on GitHub](https://github.com/AstoncPou/HUST-MM/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
